@@ -18,3 +18,19 @@ $ git push
 ```
 
 test
+
+## Important SHELL (TERMINAL/UNIX BASH) COMMANDS
+
+```
+$ clear # to clear the screen
+$ cd <PATH_TO_FILE_OR_FOLDER> 
+# . -- this means current folder
+# .. -- this means parent folder
+# ~ -- this means root user directory (home)
+$ ls # to list files in a directory
+$ touch # to create a file
+$ brew # homebrew command to install packages (programs) on your comp https://brew.sh/
+$ which <NAME_OF_PROGRAM> # tells you if a program exists on your system
+$ node # to run node.js programs
+$ mkdir <PATH_OR_NAME_OF_DIRECTORY> #this is to make a new folder
+```
